@@ -10,7 +10,7 @@ function createAfkBot() {
     host: data["ip"],
     port: parseInt(data["port"]),
     username: data["name"],
-    version: "1.20.4",
+    version: "1.21.4",
     auth: "offline"
   });
 
