@@ -9,7 +9,7 @@ var bot = mineflayer.createBot({
   host: data["ip"],
   port: parseInt(data["port"]),
   username: data["name"],
-  version: "1.20.4",
+  version: "1.16.5",
   auth: "offline"
 });
 
